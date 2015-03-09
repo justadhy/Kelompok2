@@ -10,6 +10,7 @@
 		echo"10112268 - Adhy Kartansa";
 		echo"10112267 - Jajang Sumardi";
 		echo"10112282 - Teddy Khairul";
+		echo"test 1";
 	?>
 
 </body>
