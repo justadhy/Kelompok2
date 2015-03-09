@@ -8,6 +8,7 @@
 		echo"<h1 align='center'>Kelompok 2</h1>";
 		echo"<br><br><center>";
 		echo"10112268 - Adhy Kartansa";
+		echo"10112267 - Jajang Sumardi";
 	?>
 
 </body>
